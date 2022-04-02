@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/nictbn/junit4-legacy-app/tree/master.svg?style=svg)](https://circleci.com/gh/nictbn/junit4-legacy-app/tree/master)
+
 # Spring Boot Recipe Application - Unit Testing Example
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
